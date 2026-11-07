@@ -1,0 +1,21 @@
+name: README cards
+
+on:
+  push:
+    paths: [profile.yml]
+  schedule:
+    - cron: "0 3 * * *" # daily, keeps the live GitHub stats fresh
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: Sagargupta16/readme-kit-action@v1
+        with:
+          commit: true
