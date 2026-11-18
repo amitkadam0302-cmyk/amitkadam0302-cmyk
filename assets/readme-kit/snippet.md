@@ -47,7 +47,7 @@ Markup for every card, in profile order. Copy what you need into your README; pa
 
 <img src="assets/readme-kit/timeline.svg" width="100%" alt="Education and Experience: 2026 DBMS Bootcamp, 2026 Full Stack Development Internship, 2026 IBM SkillsBuild Academic Internship, 2028 B.Sc. Computer Science" />
 
-<img src="assets/readme-kit/stats.svg" width="100%" alt="Stats: 10 public repositories; 2 followers; 0 stars across my repos; 0 merged pull requests" />
+<img src="assets/readme-kit/stats.svg" width="100%" alt="Stats: 10 public repositories; 1 followers; 0 stars across my repos; 0 merged pull requests" />
 
 <img src="assets/readme-kit/tiles.svg" width="100%" alt="Internships and Programs: IBM SkillsBuild, AI Automation and Intelligent Solutions Intern; TechnoHacks EduTech, Full Stack Development Intern; MIT ACSC, DBMS Bootcamp Participant" />
 
